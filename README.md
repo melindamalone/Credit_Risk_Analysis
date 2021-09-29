@@ -8,35 +8,35 @@ In Module Seventeen, Supervised Machine Learning is introduced for use in data a
 
 ### Results
 
-##Resampling
+### Resampling
 
-- Naive Random Oversampling:
+- **Naive Random Oversampling:**
   - Balanced Accuracy Score 69% 
   - F1 Score 75%
 
 ![](Images/Naive_Random_Oversampling.PNG)
 
-- SMOTE Oversampling: 
+- **SMOTE Oversampling:**
   - Balanced Accuracy Score 66% 
   - F1 Score 81%
 
 ![](Images/SMOTE_Oversampling.PNG)
 
-- ClusterCentroids Resampler: 
+- **ClusterCentroids Resampler:**
   - Balanced Accuracy Score 64%
   - F1 Score 72%
 
 ![](Images/ClusterCentroids_Resampler_Undersampling.PNG)
 
-- SMOTEENN:
+- **SMOTEENN:**
   - Balanced Accuracy Score 64% 
   - F1 Score 72%
 
 ![](Images/SMOTEENN_Combo.PNG)
 
-##Ensemble
+### Ensemble
 
-- Balanced Random Forest Classifier:
+- **Balanced Random Forest Classifier:**
   - Balanced Accuracy Score 79% 
   - F1 Score 93%
 
@@ -44,7 +44,7 @@ In Module Seventeen, Supervised Machine Learning is introduced for use in data a
 
 ![](Images/Features_Sorted_Feature_Importance.PNG)
 
-- Easy Ensemble AdaBoost Classifier: 
+- **Easy Ensemble AdaBoost Classifier:**
   - Balanced Accuracy Score 93% 
   - F1 Score 97%
 
